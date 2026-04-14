@@ -9,7 +9,7 @@
 
 <section class="hero">
 	<div class="eyebrow">SvelteKit · Rick and Morty</div>
-	<h1>Jesus Edwin MurieL Arias - UNINCCA</h1>
+	<h1>LUIS MIGUEL HERNANDEZ ORTIZ - UNINCCA</h1>
 	<p>
 		Base feature-first/domain-first con contratos claros entre pantalla, dominio y API.
 	</p>
